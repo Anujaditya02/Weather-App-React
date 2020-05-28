@@ -3,7 +3,7 @@
 <p> Created using ReactJs and API</p>
 <p>Used OpenWeather website data related to weather by fetching the data through API. </p>
 
-<a href = "https://anujaditya02.github.io/Weather-App-React/">Weather App </a>
+<a href = "https://anujaditya02.github.io/Weather-App-React/" >Weather App </a>
 
 <h2>ScreenShots</h2>
 
